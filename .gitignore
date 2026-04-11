@@ -185,3 +185,7 @@ fabric.properties
 .idea
 
 hour_online.csv
+
+sarima_model_0.1.pkl
+sarima_model_0.2.pkl
+sarima_model_0.05.pkl
